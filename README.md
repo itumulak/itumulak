@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:edden87@@gmail.com)
 
 ## About Me
-I specialize in Full Stack Development and have a strong interest in crafting effective solutions that drive business to success. I strive for excellence and always explore new technologies and refine existing ones.
+I specialize in Full Stack Development and have a strong interest in crafting effective solutions that drive business success. I strive for excellence and always explore new technologies and refine existing ones.
 
 ## Stacks
 <p align="center">
