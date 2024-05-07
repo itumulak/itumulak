@@ -46,4 +46,6 @@ I specialize in Full Stack Development and have a strong interest in crafting ef
   </a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itumulak" alt="itumulak" /> </p>
+
           
