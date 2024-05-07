@@ -6,7 +6,7 @@
 ## About Me
 I specialize in Full Stack Development and have a strong interest in crafting effective solutions that drive business success. I strive for excellence and always explore new technologies and refine existing ones.
 
-## Stacks
+## Tech Stacks
 <p align="center">
   <a href="https://wordpress.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50" height="50" />
